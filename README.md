@@ -3,6 +3,7 @@ This project applies the K-Means Clustering algorithm to segment mall customers 
 
 ## Dataset
 Source: [Mall Customer Data](https://github.com/navyaprashanth/MallCustomerSegmentation_KMeansClustering/issues/1#issue-3624804304)
+
 File: [Mall_Customers.csv](https://github.com/user-attachments/files/23544206/Mall_Customers.csv)
 
 ## Project Breakdown
@@ -18,3 +19,15 @@ The Elbow Method is used to find the ideal number of clusters by minimizing the 
 ### 4. Visualizing the Elbow Graph
 The plot shows the point where the decrease in WCSS starts to slow down significantly (the "elbow" which I have marked with a red dot in the graph).
 <img width="610" height="463" alt="Image" src="https://github.com/user-attachments/assets/71bae946-86e7-4bd1-a2a2-ed98df3c5e36" />
+The optimal number is 5 over here. 
+
+### 5. Training the Model
+We train the K-Means model using the optimal K =5
+
+### 6. Visualizing the Clusters
+The final plot shows the 5 resulting customer groups, with the cyan points representing the cluster centroids.
+<img width="705" height="710" alt="Image" src="https://github.com/user-attachments/assets/7626b3a5-db00-4ee8-8ebc-7e153cbbb6fe" />
+
+### Interpretation
+<img width="706" height="180" alt="Image" src="https://github.com/user-attachments/assets/99600c67-e0b3-4e8f-9892-9f54e863c4bc" />
+Keeping in mind this segmentation, effective strategies can be implemented to reach organisational goals. 
