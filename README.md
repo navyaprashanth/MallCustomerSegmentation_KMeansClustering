@@ -6,4 +6,5 @@ Source: [Mall Customer Data](https://github.com/navyaprashanth/MallCustomerSegme
 File: [Mall_Customers.csv](https://github.com/user-attachments/files/23544206/Mall_Customers.csv)
 
 ## Project Breakdown
-###1. Data loading and cleaning
+### 1. Data loading and cleaning
+We load the data using Pandas and perform a basic check for missing values.
