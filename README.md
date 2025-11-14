@@ -3,5 +3,7 @@ This project applies the K-Means Clustering algorithm to segment mall customers 
 
 ## Dataset
 Source: [Mall Customer Data](https://github.com/navyaprashanth/MallCustomerSegmentation_KMeansClustering/issues/1#issue-3624804304)
-
 File: [Mall_Customers.csv](https://github.com/user-attachments/files/23544206/Mall_Customers.csv)
+
+## Project Breakdown
+###1. Data loading and cleaning
