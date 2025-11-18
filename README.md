@@ -59,4 +59,10 @@ b Convenience: Ensure the basic shopping experience (parking, store layout, serv
 
 c. Upselling: Use targeted digital ads to introduce them to slightly higher-priced items than they typically buy, aiming for gradual increase in spending.
 
-4. 
+4. Yellow cluster:
+
+a. Value Proposition: Don't push generic deals. Instead, emphasize quality, craftsmanship, and long-term value. For instance, highlight durable, premium home goods or investment-grade jewelry.
+
+b. Experiential: Drive them to the mall for non-retail reasons. Offer exclusive access to high-end dining, movie premieres, or specialized services (e.g., tailor, spa).
+
+c. Incentivize First Purchase: Offer a high-quality gift or significant discount tied to a minimum high-value purchase to break their cautious spending habit at the mall.
