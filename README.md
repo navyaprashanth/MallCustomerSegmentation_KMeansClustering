@@ -51,3 +51,12 @@ b. Credit/Financing: Promote payment plans or store credit cards to facilitate t
 
 c. Social & Entertainment Focus: Highlight affordable entertainment options like food courts, arcades, or budget-friendly movie deals, as they use the mall more for experiences.
 
+3. Green cluster:
+
+a. Consistency: Focus on broad, generic promotions that appeal to the mass market, such as seasonal sales (Back-to-School, Holiday).
+
+b Convenience: Ensure the basic shopping experience (parking, store layout, services) is smooth and efficient to keep them coming back.
+
+c. Upselling: Use targeted digital ads to introduce them to slightly higher-priced items than they typically buy, aiming for gradual increase in spending.
+
+4. 
