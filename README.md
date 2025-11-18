@@ -66,3 +66,11 @@ a. Value Proposition: Don't push generic deals. Instead, emphasize quality, craf
 b. Experiential: Drive them to the mall for non-retail reasons. Offer exclusive access to high-end dining, movie premieres, or specialized services (e.g., tailor, spa).
 
 c. Incentivize First Purchase: Offer a high-quality gift or significant discount tied to a minimum high-value purchase to break their cautious spending habit at the mall.
+
+5. Violet cluster:
+
+a. De-Prioritize: Minimize direct marketing spend on this group.
+
+b. Focus on Necessity: If marketed to at all, focus on extreme discounts, liquidation sales, or basic necessity services (e.g., pharmacy, supermarket if applicable) to capture their occasional, minimal spend.
+
+c. Reactivation: If their spending score was once higher, focus on reactivation campaigns (e.g., "We miss you!") rather than constant, high-cost acquisition efforts.
