@@ -35,8 +35,19 @@ The final plot shows the 5 resulting customer groups, with the cyan points repre
 ### Strategies
 Keeping in mind this segmentation, effective strategies can be implemented to reach organisational goals such as:
 1. Red cluster:
+
 a. Offer an exclusive, tiered loyalty program (e.g., a "Platinum Club") with dedicated parking, private shopping hours, and early access to sales.
+
 b. Personalization: Use their purchase history to send highly personalized, high-value recommendations (e.g., an invitation to a private event for a luxury brand they frequently buy).
+
 c. Retention: Focus heavily on retaining them, as losing one of these customers significantly impacts revenue.
 
+
+2. Blue cluster:
+
+a. High-Volume Promotions: Market frequent, exciting sales, flash deals, and BOGO (Buy One Get One) offers for clothing, entertainment, and fast-moving consumer goods.
+
+b. Credit/Financing: Promote payment plans or store credit cards to facilitate their desire to spend (focusing on things they can't afford at the moment but want to as that will make them look expensive).
+
+c. Social & Entertainment Focus: Highlight affordable entertainment options like food courts, arcades, or budget-friendly movie deals, as they use the mall more for experiences.
 
