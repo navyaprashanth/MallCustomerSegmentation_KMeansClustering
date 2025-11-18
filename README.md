@@ -32,4 +32,6 @@ The final plot shows the 5 resulting customer groups, with the cyan points repre
 ### Interpretation
 <img width="706" height="180" alt="Image" src="https://github.com/user-attachments/assets/99600c67-e0b3-4e8f-9892-9f54e863c4bc" />
 
-Keeping in mind this segmentation, effective strategies can be implemented to reach organisational goals. 
+### Strategies
+Keeping in mind this segmentation, effective strategies can be implemented to reach organisational goals such as:
+
